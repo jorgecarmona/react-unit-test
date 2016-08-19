@@ -1,0 +1,32 @@
+.content {
+	margin: 20px auto;
+	width: 50%;
+}
+.table {
+	border: 1px solid #ccc;
+}
+
+.row {
+	border-bottom: 1px solid #ccc;
+	padding: 10px;
+}
+.add, .remove-all {
+	padding: 10px;
+	margin: 5px 0;
+	background: white;
+	border: 1px solid #ccc;
+}
+.remove-all {
+	float: right;
+}
+.delete {
+	background: red;
+	padding: 5px;
+	color: white;
+	border: none;
+	float: right;
+}
+.row-count {
+	display: inline-block;
+	margin: 10px 0;
+}

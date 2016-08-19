@@ -1,5 +1,10 @@
 # react-test
-How to test React apps with mocha, chai and enzyme
+Examples of unit tests for React apps with mocha, chai and enzyme
+
+## Start
+
+After cloning the project:
+### `npm install`
 
 ## Available Scripts
 
@@ -9,6 +14,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+* Note: If the port is being used, a new port will be suggested.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.

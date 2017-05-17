@@ -36,6 +36,7 @@
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.22.0",
     "ignore-styles": "^4.0.0",
+    "immutable": "^3.8.1",
     "json-loader": "0.5.4",
     "mocha": "^3.0.2",
     "opn": "4.0.2",
